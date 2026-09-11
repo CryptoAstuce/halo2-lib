@@ -1,3 +1,7 @@
+## Parcours français
+
+Un parcours technique en français sur les circuits Halo2, range checks, arithmétique non native et primitives ECC est disponible dans [`docs/fr/`](docs/fr/).
+
 # halo2-lib
 
 This repository aims to provide basic primitives for writing zero-knowledge proof circuits using the [Halo 2](https://zcash.github.io/halo2/) proving stack. To discuss or collaborate, join our community on [Telegram](https://t.me/halo2lib).
